@@ -1,0 +1,12 @@
+*/build
+.gradle
+.idea/dictionaries/*
+.idea/gradle.xml
+.idea/libraries/*
+.idea/modules/*
+.idea/tasks.xml
+.idea/workspace.xml
+benchmarks/results
+build
+lib
+out
